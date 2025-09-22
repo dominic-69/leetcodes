@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dominic-69/leetcodes/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/dominic-69/leetcodes/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dominic-69/leetcodes/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/dominic-69/leetcodes/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/dominic-69/leetcodes/tree/master/0136-single-number) |
 | [2058-concatenation-of-array](https://github.com/dominic-69/leetcodes/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -30,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/dominic-69/leetcodes/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/dominic-69/leetcodes/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->

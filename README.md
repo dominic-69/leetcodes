@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dominic-69/leetcodes/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/dominic-69/leetcodes/tree/master/0012-integer-to-roman) |
 ## Simulation
 |  |
 | ------- |
@@ -22,6 +23,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/dominic-69/leetcodes/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/dominic-69/leetcodes/tree/master/0058-length-of-last-word) |
 | [0742-to-lower-case](https://github.com/dominic-69/leetcodes/tree/master/0742-to-lower-case) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/dominic-69/leetcodes/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->

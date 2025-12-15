@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/dominic-69/leetcodes/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/dominic-69/leetcodes/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/dominic-69/leetcodes/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/dominic-69/leetcodes/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/dominic-69/leetcodes/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/dominic-69/leetcodes/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

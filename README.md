@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dominic-69/leetcodes/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/dominic-69/leetcodes/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/dominic-69/leetcodes/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [2058-concatenation-of-array](https://github.com/dominic-69/leetcodes/tree/master/2058-concatenation-of-array) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/dominic-69/leetcodes/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dominic-69/leetcodes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/dominic-69/leetcodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dominic-69/leetcodes/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/dominic-69/leetcodes/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dominic-69/leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dominic-69/leetcodes/tree/master/0027-remove-element) |
+| [0349-intersection-of-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -79,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dominic-69/leetcodes/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/dominic-69/leetcodes/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dominic-69/leetcodes/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/dominic-69/leetcodes/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 ## Database
 |  |
 | ------- |

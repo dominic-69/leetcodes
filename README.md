@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dominic-69/leetcodes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dominic-69/leetcodes/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/dominic-69/leetcodes/tree/master/0268-missing-number) |
+| [2235-add-two-integers](https://github.com/dominic-69/leetcodes/tree/master/2235-add-two-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dominic-69/leetcodes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |

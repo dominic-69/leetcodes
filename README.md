@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dominic-69/leetcodes/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/dominic-69/leetcodes/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dominic-69/leetcodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/dominic-69/leetcodes/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/dominic-69/leetcodes/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dominic-69/leetcodes/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/dominic-69/leetcodes/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/dominic-69/leetcodes/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/dominic-69/leetcodes/tree/master/0742-to-lower-case) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dominic-69/leetcodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dominic-69/leetcodes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dominic-69/leetcodes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dominic-69/leetcodes/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/dominic-69/leetcodes/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/dominic-69/leetcodes/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dominic-69/leetcodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/dominic-69/leetcodes/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/dominic-69/leetcodes/tree/master/2235-add-two-integers) |

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dominic-69/leetcodes/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/dominic-69/leetcodes/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/dominic-69/leetcodes/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/dominic-69/leetcodes/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dominic-69/leetcodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/dominic-69/leetcodes/tree/master/0912-sort-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dominic-69/leetcodes/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/dominic-69/leetcodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dominic-69/leetcodes/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/dominic-69/leetcodes/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dominic-69/leetcodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dominic-69/leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dominic-69/leetcodes/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dominic-69/leetcodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/dominic-69/leetcodes/tree/master/0912-sort-an-array) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dominic-69/leetcodes/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/dominic-69/leetcodes/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dominic-69/leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/dominic-69/leetcodes/tree/master/1512-number-of-good-pairs) |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dominic-69/leetcodes/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/dominic-69/leetcodes/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |

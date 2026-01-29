@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dominic-69/leetcodes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dominic-69/leetcodes/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/dominic-69/leetcodes/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/dominic-69/leetcodes/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/dominic-69/leetcodes/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dominic-69/leetcodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/dominic-69/leetcodes/tree/master/1512-number-of-good-pairs) |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/dominic-69/leetcodes/tree/master/0912-sort-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/dominic-69/leetcodes/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->

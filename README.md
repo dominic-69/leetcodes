@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dominic-69/leetcodes/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dominic-69/leetcodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dominic-69/leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0912-sort-an-array](https://github.com/dominic-69/leetcodes/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dominic-69/leetcodes/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dominic-69/leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dominic-69/leetcodes/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dominic-69/leetcodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dominic-69/leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dominic-69/leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/dominic-69/leetcodes/tree/master/1512-number-of-good-pairs) |
 ## Simulation

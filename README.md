@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dominic-69/leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/dominic-69/leetcodes/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/dominic-69/leetcodes/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/dominic-69/leetcodes/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/dominic-69/leetcodes/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/dominic-69/leetcodes/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dominic-69/leetcodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/dominic-69/leetcodes/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/dominic-69/leetcodes/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/dominic-69/leetcodes/tree/master/0742-to-lower-case) |
+| [1528-shuffle-string](https://github.com/dominic-69/leetcodes/tree/master/1528-shuffle-string) |
 | [1859-sorting-the-sentence](https://github.com/dominic-69/leetcodes/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dominic-69/leetcodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dominic-69/leetcodes/tree/master/2114-maximum-number-of-words-found-in-sentences) |

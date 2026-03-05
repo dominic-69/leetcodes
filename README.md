@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dominic-69/leetcodes/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/dominic-69/leetcodes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dominic-69/leetcodes/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/dominic-69/leetcodes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dominic-69/leetcodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dominic-69/leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dominic-69/leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dominic-69/leetcodes/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dominic-69/leetcodes/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/dominic-69/leetcodes/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dominic-69/leetcodes/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/dominic-69/leetcodes/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/dominic-69/leetcodes/tree/master/0541-reverse-string-ii) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dominic-69/leetcodes/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/dominic-69/leetcodes/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dominic-69/leetcodes/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/dominic-69/leetcodes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dominic-69/leetcodes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/dominic-69/leetcodes/tree/master/0912-sort-an-array) |

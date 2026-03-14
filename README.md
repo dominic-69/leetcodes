@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dominic-69/leetcodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/dominic-69/leetcodes/tree/master/2058-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dominic-69/leetcodes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2678-number-of-senior-citizens](https://github.com/dominic-69/leetcodes/tree/master/2678-number-of-senior-citizens) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/dominic-69/leetcodes/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dominic-69/leetcodes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/dominic-69/leetcodes/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dominic-69/leetcodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dominic-69/leetcodes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2678-number-of-senior-citizens](https://github.com/dominic-69/leetcodes/tree/master/2678-number-of-senior-citizens) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/dominic-69/leetcodes/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |

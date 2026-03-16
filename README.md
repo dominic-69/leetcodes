@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/dominic-69/leetcodes/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/dominic-69/leetcodes/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/dominic-69/leetcodes/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0709-to-lower-case](https://github.com/dominic-69/leetcodes/tree/master/0709-to-lower-case) |
 | [0742-to-lower-case](https://github.com/dominic-69/leetcodes/tree/master/0742-to-lower-case) |
 | [1528-shuffle-string](https://github.com/dominic-69/leetcodes/tree/master/1528-shuffle-string) |
 | [1859-sorting-the-sentence](https://github.com/dominic-69/leetcodes/tree/master/1859-sorting-the-sentence) |

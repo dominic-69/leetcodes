@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/dominic-69/leetcodes/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/dominic-69/leetcodes/tree/master/0709-to-lower-case) |
 | [0742-to-lower-case](https://github.com/dominic-69/leetcodes/tree/master/0742-to-lower-case) |
+| [1108-defanging-an-ip-address](https://github.com/dominic-69/leetcodes/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/dominic-69/leetcodes/tree/master/1528-shuffle-string) |
 | [1859-sorting-the-sentence](https://github.com/dominic-69/leetcodes/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dominic-69/leetcodes/tree/master/2011-final-value-of-variable-after-performing-operations) |

@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dominic-69/leetcodes/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2058-concatenation-of-array](https://github.com/dominic-69/leetcodes/tree/master/2058-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/dominic-69/leetcodes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/dominic-69/leetcodes/tree/master/2678-number-of-senior-citizens) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/dominic-69/leetcodes/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/dominic-69/leetcodes/tree/master/0697-degree-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dominic-69/leetcodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/dominic-69/leetcodes/tree/master/1512-number-of-good-pairs) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/dominic-69/leetcodes/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Simulation
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dominic-69/leetcodes/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dominic-69/leetcodes/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/dominic-69/leetcodes/tree/master/0476-number-complement) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dominic-69/leetcodes/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |

@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dominic-69/leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/dominic-69/leetcodes/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dominic-69/leetcodes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/dominic-69/leetcodes/tree/master/0700-search-in-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/dominic-69/leetcodes/tree/master/0206-reverse-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/dominic-69/leetcodes/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->

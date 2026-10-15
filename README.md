@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dominic-69/leetcodes/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/dominic-69/leetcodes/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dominic-69/leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dominic-69/leetcodes/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/dominic-69/leetcodes/tree/master/0066-plus-one) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dominic-69/leetcodes/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dominic-69/leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dominic-69/leetcodes/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dominic-69/leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dominic-69/leetcodes/tree/master/0011-container-with-most-water) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dominic-69/leetcodes/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/dominic-69/leetcodes/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Sorting
